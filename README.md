@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-0912564789/mr.moeedis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mr.moeed/mr.moeedis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
